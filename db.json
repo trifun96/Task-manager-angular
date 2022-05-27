@@ -1,0 +1,34 @@
+{
+  "tasks": [
+    {
+      "text": "Pustiti kera",
+      "day": "Maj 28 u 20h",
+      "reminder": false,
+      "id": 2
+    },
+    {
+      "text": "Trening",
+      "day": "Maj 28 u 21h",
+      "reminder": false,
+      "id": 3
+    },
+    {
+      "text": "Posetiti sestru",
+      "day": "Maj 29 u 17h",
+      "reminder": false,
+      "id": 4
+    },
+    {
+      "text": "Otici do prodze",
+      "day": "Maj 28 u 21h",
+      "reminder": false,
+      "id": 5
+    },
+    {
+      "text": "Odvesti psa u setnju",
+      "day": "Maj 29 u 17h",
+      "reminder": true,
+      "id": 6
+    }
+  ]
+}
